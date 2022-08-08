@@ -1,0 +1,12 @@
+Show table  of users
+Table can be empty or repopulated via some hardcoded json object to begin with.  You can have buttons to navigate from list to add/edit/delete
+Required Functionality:
+  Add user (name /phone)
+  Edit from list
+  Delete from list
+    Delete should have confirm
+
+Validation
+Name/phone should be must have , 
+phone number should have validation (numbers only, max length 10)
+Name (only alpha numeric and max length 20 char)
